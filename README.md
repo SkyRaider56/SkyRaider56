@@ -5,10 +5,11 @@
 </h1>
 </div>
 
-![](https://komarev.com/ghpvc/?username=SkyRaider56)
-
 ## :man_technologist: About Me :
-QA Automation Engineer
+
+QA Automation Engineer<br/>
+Dreaming of being SDET
+
 ## 💻 Tech Stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;  
@@ -38,7 +39,9 @@ QA Automation Engineer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyRaider56&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=SkyRaider56&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SkyRaider56&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br/>
+---
+![](https://komarev.com/ghpvc/?username=SkyRaider56)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
