@@ -7,12 +7,6 @@ QA Automation Engineer.
 Dreaming of being SDET
 </p>
 
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/ilya-kolotovkin/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
 <h2 align='center'>
 💻 Tech Stack:
 </h2>
@@ -35,6 +29,13 @@ Dreaming of being SDET
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:skyraider565@gmail.com'>skyraider565@gmail.com</a>
+</p>
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/ilya-kolotovkin/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </p>
 
 <!--
